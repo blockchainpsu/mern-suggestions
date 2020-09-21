@@ -1,4 +1,4 @@
-![blockchain@psu logo](https://raw.githubusercontent.com/blockchainpsu/mern-suggestions/assets/horizontal-logo.png)
+![blockchain@psu logo](https://github.com/blockchainpsu/mern-suggestions/blob/master/assets/horizontal-logo.png)
 # MERN Suggestions App
 
 You've probably heard of full-stack development before.
@@ -79,7 +79,7 @@ Before we begin creating a web app, we need to understand the fundamentals and, 
 
 Full-stack development involves the creation and maintainence of several layers behind your app. In most cases, there will be three layers: the client (frontend), server (backend), and database. Web sequence diagrams are very helpful when trying to understand how information moves from one layer to the next.
 
-![web sequence diagram](https://raw.githubusercontent.com/blockchainpsu/mern-suggestions/assets/websequencediagram.png)
+![web sequence diagram](https://raw.githubusercontent.com/blockchainpsu/mern-suggestions/blob/master/assets/websequencediagram.png)
 
 ####  Additional Information
 
