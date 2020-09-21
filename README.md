@@ -11,7 +11,14 @@ As a precursor to writing blockchains, smart contracts, and decentralized apps, 
 
 ## Contents
 
-- [Environment Setup](https://github.com/blockchainpsu/mern-suggestions/)
+- [Environment Setup](https://github.com/blockchainpsu/mern-suggestions#Environment-Setup)
+- [Project Overview](https://github.com/blockchainpsu/mern-suggestions#Project-Overview)
+- [Links](https://github.com/blockchainpsu/mern-suggestions#Links)
+- [Brief Background](https://github.com/blockchainpsu/mern-suggestions#Brief-Background)
+  - [Requests](https://github.com/blockchainpsu/mern-suggestions#Requests)
+  - [API Calls](https://github.com/blockchainpsu/mern-suggestions#API-Calls)
+  - [Web Sequence Diagram](https://github.com/blockchainpsu/mern-suggestions#Web-Sequence-Diagram)
+  - [Additional Information](https://github.com/blockchainpsu/mern-suggestions#Additional-Information)
 
 ## Environment Setup
 
@@ -41,7 +48,7 @@ If you have any troubles working through the project, feel free to reach out to 
 
 ## Brief Background
 
-#### Requests and API Calls
+#### Requests
 
 **Requests** allow the client to communicate with the server, often asking for specific bits of data from a database to be displayed on the client.
 
