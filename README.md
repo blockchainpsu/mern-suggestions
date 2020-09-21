@@ -1,3 +1,4 @@
+![blockchain@psu logo](https://raw.githubusercontent.com/blockchainpsu/mern-suggestions/assets/horizontal-logo.png)
 # MERN Suggestions App
 
 You've probably heard of full-stack development before.
@@ -7,6 +8,10 @@ Briefly, it's a ubiquitous term that encapsulates both backend and frontend deve
 There are some arguments that go into the effectiveness of such a model, but that's neither here nor there.
 
 As a precursor to writing blockchains, smart contracts, and decentralized apps, we need to go back to basics.
+
+## Contents
+
+- [Environment Setup](https://github.com/blockchainpsu/mern-suggestions/)
 
 ## Environment Setup
 
@@ -67,7 +72,7 @@ Before we begin creating a web app, we need to understand the fundamentals and, 
 
 Full-stack development involves the creation and maintainence of several layers behind your app. In most cases, there will be three layers: the client (frontend), server (backend), and database. Web sequence diagrams are very helpful when trying to understand how information moves from one layer to the next.
 
-![web sequence diagram](https://raw.githubusercontent.com/blockchainpsu/blockchain-essentials-spring2020/mern/part1/websequencediagram.png)
+![web sequence diagram](https://raw.githubusercontent.com/blockchainpsu/mern-suggestions/assets/websequencediagram.png)
 
 ####  Additional Information
 
